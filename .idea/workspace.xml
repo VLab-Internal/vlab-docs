@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="43755000-b86a-4720-947f-d90b2735eca4" name="Changes" comment="Changed build script">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Introduction-to-VLab.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Introduction-to-VLab.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,13 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Kotaro/WritersideProjects/vlab&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;writerside.last.selected.productBullySim&quot;: &quot;in&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: [
+      &quot;C:/Users/scrat/WritersideProjects/vlab-docs/Writerside/topics/Introduction-to-VLab.md&quot;
+    ]
   }
 }</component>
   <component name="RunManager">
